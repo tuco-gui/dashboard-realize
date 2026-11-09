@@ -11,3 +11,12 @@ Relatório executivo no padrão do Ortega, com abas Visão Geral, Campanhas, Fun
 **Técnica:** Site estático em `index.html`, sem segredos e sem dados pessoais. Filtro de datas usa granularidade diária; tabela por criativo mostra somente o período integral. Exportação em PDF pelo navegador. Esta é uma captura das APIs, não feed em tempo real. Validar proteção de acesso antes de compartilhar externamente.
 
 **Evolução:** sincronização autenticada e reconciliação de contato único/protocolo/etapas comerciais; não inventar vendas ou leads qualificados.
+
+## Edição ampliada — 09/11/2026
+
+- Identidade visual: cabeçalho branco; logomarcas oficiais da Figueira Marketing e Realize (branca sobre placa azul), ambas recuperadas do repositório público `tuco-gui/alea-botucatu`. Sem vermelho fora da própria marca da Figueira. Paleta azul, verde e tons neutros.
+- Campanhas: filtro visual `Visão geral`, `Google Ads`, `Meta Ads`, anúncios Meta e palavras-chave/termos efetivos da Pesquisa paga Google.
+- Analytics GA4: propriedade `561083509`, 27/10 a 08/11/2026: 114 sessões, 92 usuários únicos, 149 visualizações, 65 sessões engajadas (57,02%). Google/CPC responde por 100 sessões. Séries diárias e origem/mídia.
+- Search Console: `sc-domain:casasaleaembotucatu.com.br`, 27/10 a 08/11: 8 impressões orgânicas, 0 cliques. Consultas detalhadas somam 7 impressões; 1 não aparece no recorte por consulta. URL com impressões: `/realize.html`.
+- Google Ads: palavras-chave e termos de pesquisa vêm da conta 368-346-8864. Conversões das palavras-chave são eventos atribuídos pela plataforma, não vendas nem distribuição dos 16 cadastros comerciais, que continuam conciliados pela planilha.
+- Os dados foram verificados contra APIs e são um recorte publicado; para atualizações automáticas, criar integração autenticada com verificação de proveniência e filtros por período.
