@@ -30,3 +30,31 @@ Relatório executivo no padrão do Ortega, com abas Visão Geral, Campanhas, Fun
 - Seleção de intervalo: 7, 15, 30, 60, 90 e 180 dias, tudo e datas personalizadas. A disponibilidade é limitada pelo recorte das fontes (27/10 a 08/11).
 - Logo Realize: imagem **azul oficial aprovada**, proveniente de `assets_aprovados/logo-realize-oficial-azul.jpg` no repositório Alea. Substitui a marca branca incorreta; manter apenas a identidade aprovada.
 - Paleta de interface: branco, azul, verde e cinza, sem vermelho fora do logotipo Figueira.
+
+## Atualização diária automatizada (09/11/2026)
+
+### Contrato de dados
+O HTML usa `fetch('/data/realize.json')` no navegador, sem credenciais, com `cache: no-store`. O arquivo JSON contém apenas métricas agregadas e metadados de frescor, nunca leads identificáveis ou tokens. Em caso de falha de download ou esquema incompleto, mostra o último recorte embutido e sinaliza que está desatualizado.
+
+### Caminho de atualização
+Tarefa agendada na nuvem (fuso **America/Sao_Paulo**) consulta APIs autorizadas Meta, Google Ads, GA4, Search Console e Google Sheets (Realize/Alea). Atualiza somente `data/realize.json` em `main` via GitHub, após validação de conteúdo. O Git push em `main` dispara automaticamente novo deploy Vercel no projeto `dashboard-realize`. Validação obrigatória do novo deploy `target=production, state=READY`.
+
+### Fonte por campo
+- `metaDaily` e `ads`: Marketing API Meta, conta `257842684035643`. Evento `onsite_conversion.messaging_conversation_started_7d`.
+- `googleDaily`: Google Ads, cliente `3683468864`, custos em BRL (converter `costMicros / 1e6`), impressões/cliques/conversões com intervalo exato e granularidade diária.
+- `formDaily`: Sheets `1vPQBhcAykwaM22t-8paKFXC42SGR1vnSf6hQls6ckqE`, aba `Leads Alea`, coluna de data `Recebido em`, canais Google na própria planilha; usar datas Brasil e registros por protocolo quando possível. **Não exportar dados pessoais.**
+- `ga4Daily`, `ga4Sources`, `ga4Users` etc.: propriedade GA4 `561083509`.
+- `gscDaily` e `gscQueries`: `sc-domain:casasaleaembotucatu.com.br`, respeitar atraso de disponibilidade de Search Console.
+- `adsKeywords`, `adsSearchTerms`: métricas da campanha Google Ads `24406912922`; conversões nas tabelas significam eventos atribuídos e não vendas.
+- `googleWhatsappSecondaryTotal`: ação secundária `alea_whatsapp_handoff`, usar `allConversions`, sem somar a cadastros.
+- Valores comerciais `qualified`, `opportunities`, `visits`, `sales` e `vgv`: `null` até comprovação por CRM Superlógica ou declaração verificada; não copiar nem estimar resultados Ortega.
+- `agencyMonthly`: R$ 750,00, informação contratual do usuário; `aiToolsMonthly`: `null` até valor autorizado.
+
+### Regras de segurança
+1. Cliente Realize isolado; não misturar contas, dados ou leads de outros clientes.
+2. Atualizar recorte `periodEnd` até o último dia encerrado; manter histórico desde `periodStart`.
+3. Validar datas, moeda, totais e shape de todas as séries antes de publicar.
+4. Se uma fonte falhar, manter os valores anteriores dela, marcar `sources.<fonte>.status='error'` e `dataThrough` original; não inventar zeros.
+5. Só atualizar `generatedAt` após persistir o novo snapshot (na mesma operação).
+6. Conferir deploy da Vercel após commit; reportar erro se não estiver READY.
+7. Interface sinaliza data do snapshot e fontes pendentes. Snapshots não são necessariamente atualização em tempo real e fontes podem ter atrasos de atribuição.
