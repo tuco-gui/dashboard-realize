@@ -20,3 +20,13 @@ Relatório executivo no padrão do Ortega, com abas Visão Geral, Campanhas, Fun
 - Search Console: `sc-domain:casasaleaembotucatu.com.br`, 27/10 a 08/11: 8 impressões orgânicas, 0 cliques. Consultas detalhadas somam 7 impressões; 1 não aparece no recorte por consulta. URL com impressões: `/realize.html`.
 - Google Ads: palavras-chave e termos de pesquisa vêm da conta 368-346-8864. Conversões das palavras-chave são eventos atribuídos pela plataforma, não vendas nem distribuição dos 16 cadastros comerciais, que continuam conciliados pela planilha.
 - Os dados foram verificados contra APIs e são um recorte publicado; para atualizações automáticas, criar integração autenticada com verificação de proveniência e filtros por período.
+
+## Revisão de layout baseada no relatório Ortega (09/11/2026)
+- Visão Geral Executiva na mesma estrutura de leitura do Ortega: investimento do período, métricas de mídia, resultado comercial acumulado, investimento versus captações e alertas/análise.
+- Mensalidade de agência Realize **R$ 750,00/mês**, informada pelo contratante. Agência pró-rata = mensalidade x dias corridos selecionados / 30; demonstrativo proporcional, não fatura ou confirmação da data de início contratual. Ferramentas de IA: valor **não informado**, não adicionar como zero nem ocultar do custo faltante. O "total conhecido" inclui mídia + agência proporcional, exclui ferramenta sem valor.
+- Resultado comercial: não foram fornecidos/conciliados quantidades de qualificados, oportunidades, visitas, vendas e VGV; mostrar **não apurado**, sem usar zeros ou copiar projeções e indicadores do Ortega.
+- Funil e Projeção: captações por canais separadas, próximas etapas dependentes da deduplicação e da evolução real no Superlógica; não aplicar benchmarks de imóveis alto padrão ao lançamento Alea.
+- Abas complementares preservadas: Campanhas (Google / Meta, investimento por dia, evento de captação, tabelas, termos e anúncios), Analytics (GA4), Orgânico (GSC), Diagnóstico e Fontes.
+- Seleção de intervalo: 7, 15, 30, 60, 90 e 180 dias, tudo e datas personalizadas. A disponibilidade é limitada pelo recorte das fontes (27/10 a 08/11).
+- Logo Realize: imagem **azul oficial aprovada**, proveniente de `assets_aprovados/logo-realize-oficial-azul.jpg` no repositório Alea. Substitui a marca branca incorreta; manter apenas a identidade aprovada.
+- Paleta de interface: branco, azul, verde e cinza, sem vermelho fora do logotipo Figueira.
