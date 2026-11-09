@@ -579,5 +579,22 @@
   "sales": null,
   "vgv": null,
   "agencyMonthly": 750,
-  "aiToolsMonthly": null
+  "aiToolsMonthly": null,
+  "ads": [
+    {
+      "name": "Apresentação",
+      "spend": 311.06,
+      "chats": 35
+    },
+    {
+      "name": "Carrossel",
+      "spend": 13.48,
+      "chats": 1
+    },
+    {
+      "name": "Remarketing",
+      "spend": 125.72,
+      "chats": 6
+    }
+  ]
 }
