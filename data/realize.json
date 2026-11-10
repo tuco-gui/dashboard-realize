@@ -1,33 +1,33 @@
 {
   "schemaVersion": 1,
   "client": "realize-alea",
-  "generatedAt": "2026-11-09T14:04:00Z",
+  "generatedAt": "2026-11-10T12:47:31.150Z",
   "periodStart": "2026-10-27",
-  "periodEnd": "2026-11-08",
+  "periodEnd": "2026-11-09",
   "sources": {
     "meta": {
-      "asOf": "2026-11-08",
+      "asOf": "2026-11-09",
       "dataThrough": "2026-11-07",
       "status": "ok"
     },
     "googleAds": {
-      "asOf": "2026-11-08",
-      "dataThrough": "2026-11-08",
+      "asOf": "2026-11-09",
+      "dataThrough": "2026-11-09",
       "status": "ok"
     },
     "ga4": {
-      "asOf": "2026-11-08",
-      "dataThrough": "2026-11-08",
+      "asOf": "2026-11-09",
+      "dataThrough": "2026-11-09",
       "status": "ok"
     },
     "searchConsole": {
-      "asOf": "2026-11-08",
-      "dataThrough": "2026-11-07",
+      "asOf": "2026-11-09",
+      "dataThrough": "2026-11-08",
       "status": "ok"
     },
     "googleSheets": {
-      "asOf": "2026-11-08",
-      "dataThrough": "2026-11-08",
+      "asOf": "2026-11-09",
+      "dataThrough": "2026-11-09",
       "status": "ok"
     },
     "superlogica": {
@@ -198,6 +198,13 @@
       308,
       28,
       3
+    ],
+    [
+      "2026-11-09",
+      42.23,
+      284,
+      26,
+      3
     ]
   ],
   "formDaily": [
@@ -211,11 +218,7 @@
     ],
     [
       "2026-10-30",
-      1
-    ],
-    [
-      "2026-10-31",
-      1
+      2
     ],
     [
       "2026-11-01",
@@ -236,6 +239,10 @@
     [
       "2026-11-08",
       4
+    ],
+    [
+      "2026-11-09",
+      6
     ]
   ],
   "ga4Daily": [
@@ -329,12 +336,19 @@
       13,
       12,
       15
+    ],
+    [
+      "2026-11-09",
+      14,
+      14,
+      13,
+      17
     ]
   ],
   "ga4Sources": [
     [
       "Google / CPC",
-      100
+      114
     ],
     [
       "Assistente de IA",
@@ -413,6 +427,11 @@
       "2026-11-07",
       1,
       0
+    ],
+    [
+      "2026-11-08",
+      0,
+      0
     ]
   ],
   "gscQueries": [
@@ -421,6 +440,12 @@
       3,
       0,
       11
+    ],
+    [
+      "botucatu imobiliaria",
+      1,
+      0,
+      100
     ],
     [
       "imobiliaria realize",
@@ -439,35 +464,22 @@
       1,
       0,
       9
-    ],
-    [
-      "botucatu imobiliaria",
-      1,
-      0,
-      100
     ]
   ],
   "adsKeywords": [
     [
       "casas à venda em botucatu",
       "Frase",
-      60,
-      125.37,
+      62,
+      129.04,
       0
     ],
     [
       "alea botucatu",
       "Frase",
-      26,
-      71.73,
-      1
-    ],
-    [
-      "casas à venda em botucatu",
-      "Exata",
-      21,
-      64.64,
-      0
+      29,
+      76.27,
+      2
     ],
     [
       "casas novas botucatu",
@@ -477,11 +489,46 @@
       0
     ],
     [
+      "casas à venda em botucatu",
+      "Exata",
+      21,
+      64.64,
+      0
+    ],
+    [
+      "imoveis botucatu",
+      "Frase",
+      16,
+      27.82,
+      3
+    ],
+    [
+      "imoveis a venda botucatu",
+      "Frase",
+      14,
+      23.37,
+      1
+    ],
+    [
       "casas alea botucatu",
       "Frase",
       9,
       33.45,
       0
+    ],
+    [
+      "casas minha casa minha vida botucatu",
+      "Frase",
+      9,
+      16.95,
+      1
+    ],
+    [
+      "casas minha casa minha vida botucatu",
+      "Exata",
+      9,
+      15.22,
+      1
     ],
     [
       "casa financiada botucatu",
@@ -491,39 +538,32 @@
       2
     ],
     [
-      "imoveis a venda botucatu",
+      "casa 2 quartos botucatu",
       "Frase",
-      9,
-      15.78,
-      1
+      2,
+      3.95,
+      0
     ],
     [
-      "imoveis botucatu",
+      "casapatio botucatu",
       "Frase",
-      9,
-      15.6,
-      2
-    ],
-    [
-      "casas minha casa minha vida botucatu",
-      "Exata",
-      7,
-      12.07,
-      1
+      1,
+      1.46,
+      0
     ]
   ],
   "adsSearchTerms": [
     [
       "alea botucatu",
-      15,
-      39.51,
+      17,
+      42.29,
       1
     ],
     [
       "minha casa minha vida botucatu",
-      8,
-      21.57,
-      1
+      13,
+      29.42,
+      2
     ],
     [
       "casa a venda cohab 1 botucatu",
@@ -544,6 +584,12 @@
       0
     ],
     [
+      "vida nova 3 botucatu",
+      3,
+      5.93,
+      0
+    ],
+    [
       "alea construtora",
       3,
       8.08,
@@ -556,23 +602,143 @@
       0
     ],
     [
+      "casas a venda em botucatu",
+      2,
+      3.34,
+      0
+    ],
+    [
+      "casas em botucatu até 200 mil",
+      2,
+      3.88,
+      0
+    ],
+    [
+      "como conseguir uma casa",
+      2,
+      4.9,
+      0
+    ],
+    [
+      "dna imoveis botucatu",
+      2,
+      3.62,
+      0
+    ],
+    [
+      "altos da serra botucatu",
+      1,
+      2.16,
+      0
+    ],
+    [
       "atual imoveis botucatu",
       1,
       2.03,
       1
     ],
     [
-      "residencial botucatu",
+      "botucatu casas",
       1,
-      1.93,
-      1
+      1.9,
+      0
+    ],
+    [
+      "botucatu minha casa minha vida",
+      1,
+      1.74,
+      0
+    ],
+    [
+      "casa a venda botucatu",
+      1,
+      1.99,
+      0
+    ],
+    [
+      "casa em botucatu",
+      1,
+      2.31,
+      0
+    ],
+    [
+      "casa mrv botucatu",
+      1,
+      1.86,
+      0
+    ],
+    [
+      "casa para vender botucatu",
+      1,
+      2,
+      0
+    ],
+    [
+      "casas a venda em botucatu ate 250 mil",
+      1,
+      1.99,
+      0
+    ],
+    [
+      "casas ecovita botucatu",
+      1,
+      2.34,
+      0
+    ],
+    [
+      "casas novas a venda em botucatu",
+      1,
+      1.98,
+      0
+    ],
+    [
+      "casas venda botucatu",
+      1,
+      3.23,
+      0
+    ],
+    [
+      "casas à venda de até 120.000 em botucatu sp",
+      1,
+      1.81,
+      0
+    ],
+    [
+      "casas à venda em botucatu direto com o proprietário",
+      1,
+      2.06,
+      0
+    ],
+    [
+      "comprar imovel usado",
+      1,
+      2.18,
+      0
+    ],
+    [
+      "condomínio mirante da serra botucatu",
+      1,
+      1.75,
+      0
+    ],
+    [
+      "ecovita botucatu",
+      1,
+      8.97,
+      0
+    ],
+    [
+      "empreendimento botucatu",
+      1,
+      3.18,
+      0
     ]
   ],
   "metaReach": 8383,
-  "ga4Users": 92,
-  "ga4NewUsers": 92,
-  "ga4EngagedSessions": 65,
-  "googleWhatsappSecondaryTotal": 4,
+  "ga4Users": 105,
+  "ga4NewUsers": 105,
+  "ga4EngagedSessions": 74,
+  "googleWhatsappSecondaryTotal": 7,
   "qualified": null,
   "opportunities": null,
   "visits": null,
