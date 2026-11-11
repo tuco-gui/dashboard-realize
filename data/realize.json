@@ -1,33 +1,33 @@
 {
   "schemaVersion": 1,
   "client": "realize-alea",
-  "generatedAt": "2026-11-10T12:47:31.150Z",
+  "generatedAt": "2026-11-11T12:40:07.538Z",
   "periodStart": "2026-10-27",
-  "periodEnd": "2026-11-09",
+  "periodEnd": "2026-11-10",
   "sources": {
     "meta": {
-      "asOf": "2026-11-09",
+      "asOf": "2026-11-10",
       "dataThrough": "2026-11-07",
       "status": "ok"
     },
     "googleAds": {
-      "asOf": "2026-11-09",
-      "dataThrough": "2026-11-09",
+      "asOf": "2026-11-10",
+      "dataThrough": "2026-11-10",
       "status": "ok"
     },
     "ga4": {
-      "asOf": "2026-11-09",
-      "dataThrough": "2026-11-09",
+      "asOf": "2026-11-10",
+      "dataThrough": "2026-11-10",
       "status": "ok"
     },
     "searchConsole": {
-      "asOf": "2026-11-09",
-      "dataThrough": "2026-11-08",
+      "asOf": "2026-11-10",
+      "dataThrough": "2026-11-09",
       "status": "ok"
     },
     "googleSheets": {
-      "asOf": "2026-11-09",
-      "dataThrough": "2026-11-09",
+      "asOf": "2026-11-10",
+      "dataThrough": "2026-11-10",
       "status": "ok"
     },
     "superlogica": {
@@ -205,6 +205,13 @@
       284,
       26,
       3
+    ],
+    [
+      "2026-11-10",
+      40.02,
+      315,
+      25,
+      2
     ]
   ],
   "formDaily": [
@@ -218,7 +225,11 @@
     ],
     [
       "2026-10-30",
-      2
+      1
+    ],
+    [
+      "2026-10-31",
+      1
     ],
     [
       "2026-11-01",
@@ -243,6 +254,10 @@
     [
       "2026-11-09",
       6
+    ],
+    [
+      "2026-11-10",
+      3
     ]
   ],
   "ga4Daily": [
@@ -343,27 +358,38 @@
       14,
       13,
       17
+    ],
+    [
+      "2026-11-10",
+      12,
+      12,
+      10,
+      15
     ]
   ],
   "ga4Sources": [
     [
-      "Google / CPC",
-      114
+      "google / cpc",
+      126
     ],
     [
-      "Assistente de IA",
+      "chatgpt.com / ai-assistant",
       6
     ],
     [
-      "Direto",
+      "(direct) / (none)",
       5
     ],
     [
-      "Referência",
+      "(not set)",
       2
     ],
     [
-      "Outro",
+      "tagassistant.google.com / referral",
+      2
+    ],
+    [
+      "(data not available)",
       1
     ]
   ],
@@ -432,15 +458,14 @@
       "2026-11-08",
       0,
       0
+    ],
+    [
+      "2026-11-09",
+      0,
+      0
     ]
   ],
   "gscQueries": [
-    [
-      "realize negocios imobiliarios",
-      3,
-      0,
-      11
-    ],
     [
       "botucatu imobiliaria",
       1,
@@ -464,106 +489,203 @@
       1,
       0,
       9
+    ],
+    [
+      "realize negocios imobiliarios",
+      3,
+      0,
+      11
     ]
   ],
   "adsKeywords": [
     [
       "casas à venda em botucatu",
-      "Frase",
-      62,
-      129.04,
+      "PHRASE",
+      66,
+      0,
       0
     ],
     [
       "alea botucatu",
-      "Frase",
-      29,
-      76.27,
+      "PHRASE",
+      34,
+      0,
       2
     ],
     [
-      "casas novas botucatu",
-      "Frase",
-      24,
-      63,
+      "casas à venda em botucatu",
+      "EXACT",
+      23,
+      0,
       0
     ],
     [
-      "casas à venda em botucatu",
-      "Exata",
-      21,
-      64.64,
+      "casas novas botucatu",
+      "PHRASE",
+      26,
+      0,
+      0
+    ],
+    [
+      "casas alea botucatu",
+      "PHRASE",
+      10,
+      0,
       0
     ],
     [
       "imoveis botucatu",
-      "Frase",
-      16,
-      27.82,
+      "PHRASE",
+      19,
+      0,
       3
     ],
     [
       "imoveis a venda botucatu",
-      "Frase",
-      14,
-      23.37,
-      1
-    ],
-    [
-      "casas alea botucatu",
-      "Frase",
-      9,
-      33.45,
-      0
-    ],
-    [
-      "casas minha casa minha vida botucatu",
-      "Frase",
-      9,
-      16.95,
+      "PHRASE",
+      17,
+      0,
       1
     ],
     [
       "casas minha casa minha vida botucatu",
-      "Exata",
-      9,
-      15.22,
-      1
+      "PHRASE",
+      13,
+      0,
+      3
     ],
     [
       "casa financiada botucatu",
-      "Frase",
-      4,
-      19.86,
+      "PHRASE",
+      5,
+      0,
       2
     ],
     [
+      "casas minha casa minha vida botucatu",
+      "EXACT",
+      9,
+      0,
+      1
+    ],
+    [
       "casa 2 quartos botucatu",
-      "Frase",
+      "PHRASE",
       2,
-      3.95,
+      0,
       0
     ],
     [
       "casapatio botucatu",
-      "Frase",
+      "PHRASE",
       1,
-      1.46,
+      0,
+      0
+    ],
+    [
+      "casa com quintal botucatu",
+      "PHRASE",
+      0,
+      0,
+      0
+    ],
+    [
+      "lançamento de casas botucatu",
+      "EXACT",
+      0,
+      0,
+      0
+    ],
+    [
+      "lançamento de casas botucatu",
+      "PHRASE",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa com fgts botucatu",
+      "EXACT",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa com fgts botucatu",
+      "PHRASE",
+      0,
+      0,
+      0
+    ],
+    [
+      "lançamento alea botucatu",
+      "EXACT",
+      0,
+      0,
+      0
+    ],
+    [
+      "alea botucatu financiamento",
+      "PHRASE",
+      0,
+      0,
+      0
+    ],
+    [
+      "preço alea botucatu",
+      "PHRASE",
+      0,
+      0,
+      0
+    ],
+    [
+      "alea botucatu financiamento",
+      "EXACT",
+      0,
+      0,
+      0
+    ],
+    [
+      "alea tenda botucatu",
+      "EXACT",
+      0,
+      0,
+      0
+    ],
+    [
+      "alea tenda botucatu",
+      "PHRASE",
+      0,
+      0,
+      0
+    ],
+    [
+      "lançamento alea botucatu",
+      "PHRASE",
+      0,
+      0,
+      0
+    ],
+    [
+      "preço alea botucatu",
+      "EXACT",
+      0,
+      0,
       0
     ]
   ],
   "adsSearchTerms": [
     [
       "alea botucatu",
-      17,
-      42.29,
+      20,
+      47.34,
       1
     ],
     [
       "minha casa minha vida botucatu",
-      13,
-      29.42,
-      2
+      15,
+      32.51,
+      4
     ],
     [
       "casa a venda cohab 1 botucatu",
@@ -574,13 +696,25 @@
     [
       "casas a venda botucatu",
       4,
-      10.73,
+      10.734552,
+      0
+    ],
+    [
+      "casas a venda em botucatu",
+      4,
+      6.6,
+      0
+    ],
+    [
+      "casas alea botucatu",
+      4,
+      6.91,
       0
     ],
     [
       "casas para comprar perto de mim",
       3,
-      2.63,
+      2.628208,
       0
     ],
     [
@@ -593,18 +727,6 @@
       "alea construtora",
       3,
       8.08,
-      0
-    ],
-    [
-      "casas alea botucatu",
-      3,
-      5.48,
-      0
-    ],
-    [
-      "casas a venda em botucatu",
-      2,
-      3.34,
       0
     ],
     [
@@ -722,6 +844,12 @@
       0
     ],
     [
+      "conjunto habitacional botucatu",
+      1,
+      1.76,
+      0
+    ],
+    [
       "ecovita botucatu",
       1,
       8.97,
@@ -732,12 +860,96 @@
       1,
       3.18,
       0
+    ],
+    [
+      "grupo robuste",
+      1,
+      0.47,
+      0
+    ],
+    [
+      "imobiliarias botucatu",
+      1,
+      1.82,
+      0
+    ],
+    [
+      "le ville botucatu",
+      1,
+      1.97,
+      0
+    ],
+    [
+      "minha casa minha vida botucatu inscrição",
+      1,
+      1.62,
+      0
+    ],
+    [
+      "pacaembu botucatu",
+      1,
+      7.46,
+      0
+    ],
+    [
+      "rancho rio bonito botucatu venda",
+      1,
+      2.01,
+      0
+    ],
+    [
+      "residencial botucatu",
+      1,
+      1.93,
+      1
+    ],
+    [
+      "alternativa imobiliária botucatu",
+      1,
+      4.55,
+      0
+    ],
+    [
+      "apartamento botucatu",
+      1,
+      2.37,
+      0
+    ],
+    [
+      "comprar imovel direto com a construtora",
+      1,
+      2.76,
+      0
+    ],
+    [
+      "construtora alea",
+      1,
+      2.03,
+      0
+    ],
+    [
+      "ecovita botucatu",
+      1,
+      18.26,
+      0
+    ],
+    [
+      "grupo alea",
+      1,
+      2.74,
+      0
+    ],
+    [
+      "imobiliária botucatu",
+      1,
+      1.61,
+      0
     ]
   ],
   "metaReach": 8383,
-  "ga4Users": 105,
-  "ga4NewUsers": 105,
-  "ga4EngagedSessions": 74,
+  "ga4Users": 115,
+  "ga4NewUsers": 115,
+  "ga4EngagedSessions": 81,
   "googleWhatsappSecondaryTotal": 7,
   "qualified": null,
   "opportunities": null,
