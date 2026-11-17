@@ -1,33 +1,33 @@
 {
   "schemaVersion": 1,
   "client": "realize-alea",
-  "generatedAt": "2026-11-16T12:37:14.745Z",
+  "generatedAt": "2026-11-17T12:52:13.824Z",
   "periodStart": "2026-10-27",
-  "periodEnd": "2026-11-15",
+  "periodEnd": "2026-11-16",
   "sources": {
     "meta": {
-      "asOf": "2026-11-15",
-      "dataThrough": "2026-11-15",
+      "asOf": "2026-11-16",
+      "dataThrough": "2026-11-16",
       "status": "ok"
     },
     "googleAds": {
-      "asOf": "2026-11-15",
-      "dataThrough": "2026-11-15",
+      "asOf": "2026-11-16",
+      "dataThrough": "2026-11-16",
       "status": "ok"
     },
     "ga4": {
-      "asOf": "2026-11-13",
-      "dataThrough": "2026-11-13",
-      "status": "error"
+      "asOf": "2026-11-16",
+      "dataThrough": "2026-11-16",
+      "status": "ok"
     },
     "searchConsole": {
-      "asOf": "2026-11-15",
-      "dataThrough": "2026-11-14",
+      "asOf": "2026-11-16",
+      "dataThrough": "2026-11-15",
       "status": "ok"
     },
     "googleSheets": {
-      "asOf": "2026-11-15",
-      "dataThrough": "2026-11-15",
+      "asOf": "2026-11-16",
+      "dataThrough": "2026-11-16",
       "status": "ok"
     },
     "superlogica": {
@@ -126,6 +126,13 @@
       1543,
       42,
       2
+    ],
+    [
+      "2026-11-16",
+      41.3,
+      2478,
+      52,
+      3
     ]
   ],
   "googleDaily": [
@@ -222,9 +229,9 @@
     ],
     [
       "2026-11-10",
-      38.31,
+      40.02,
       315,
-      24,
+      25,
       3
     ],
     [
@@ -261,6 +268,13 @@
       466,
       42,
       0
+    ],
+    [
+      "2026-11-16",
+      71.4,
+      344,
+      38,
+      1
     ]
   ],
   "formDaily": [
@@ -310,6 +324,10 @@
     ],
     [
       "2026-11-15",
+      1
+    ],
+    [
+      "2026-11-16",
       1
     ]
   ],
@@ -420,6 +438,13 @@
       15
     ],
     [
+      "2026-11-11",
+      15,
+      14,
+      13,
+      16
+    ],
+    [
       "2026-11-12",
       3,
       3,
@@ -432,28 +457,49 @@
       7,
       6,
       8
+    ],
+    [
+      "2026-11-14",
+      6,
+      5,
+      5,
+      8
+    ],
+    [
+      "2026-11-15",
+      18,
+      18,
+      18,
+      20
+    ],
+    [
+      "2026-11-16",
+      12,
+      11,
+      11,
+      12
     ]
   ],
   "ga4Sources": [
     [
       "google / cpc",
-      136
+      185
     ],
     [
       "(direct) / (none)",
-      6
+      7
     ],
     [
       "chatgpt.com / ai-assistant",
       6
     ],
     [
-      "tagassistant.google.com / referral",
+      "(data not available)",
       2
     ],
     [
-      "(data not available)",
-      1
+      "tagassistant.google.com / referral",
+      2
     ]
   ],
   "gscDaily": [
@@ -551,6 +597,11 @@
       "2026-11-14",
       15,
       0
+    ],
+    [
+      "2026-11-15",
+      7,
+      0
     ]
   ],
   "gscQueries": [
@@ -562,9 +613,9 @@
     ],
     [
       "alea botucatu",
-      4,
+      5,
       0,
-      6.5
+      6
     ],
     [
       "alea construtora",
@@ -661,57 +712,57 @@
     [
       "casas à venda em botucatu",
       "PHRASE",
-      106,
-      206.37,
-      1
+      117,
+      228.44,
+      2
     ],
     [
       "alea botucatu",
       "PHRASE",
-      39,
-      91.88,
+      46,
+      103.04,
       2
-    ],
-    [
-      "casas à venda em botucatu",
-      "EXACT",
-      26,
-      73.26,
-      0
     ],
     [
       "imoveis botucatu",
       "PHRASE",
-      41,
-      69.45,
+      47,
+      79.83,
       3
-    ],
-    [
-      "casas novas botucatu",
-      "PHRASE",
-      27,
-      67.7,
-      0
     ],
     [
       "imoveis a venda botucatu",
       "PHRASE",
-      37,
-      62.02,
+      45,
+      78.15,
       1
+    ],
+    [
+      "casas à venda em botucatu",
+      "EXACT",
+      28,
+      77.15,
+      0
+    ],
+    [
+      "casas novas botucatu",
+      "PHRASE",
+      29,
+      70.97,
+      0
     ],
     [
       "casas alea botucatu",
       "PHRASE",
-      12,
-      37.27,
+      13,
+      39.18,
       0
     ],
     [
       "casas minha casa minha vida botucatu",
       "PHRASE",
-      19,
-      33.65,
+      21,
+      37.95,
       4
     ],
     [
@@ -830,15 +881,21 @@
   "adsSearchTerms": [
     [
       "alea botucatu",
-      24,
-      53.46,
+      28,
+      59.9,
       1
     ],
     [
       "minha casa minha vida botucatu",
-      19,
-      39.33,
+      20,
+      41.66,
       6
+    ],
+    [
+      "casa a venda cohab 1 botucatu",
+      5,
+      10.15,
+      0
     ],
     [
       "casas a venda em botucatu",
@@ -850,12 +907,6 @@
       "casas alea botucatu",
       5,
       8.09,
-      0
-    ],
-    [
-      "casa a venda cohab 1 botucatu",
-      4,
-      8.2,
       0
     ],
     [
@@ -880,6 +931,12 @@
       "alea construtora",
       3,
       8.08,
+      0
+    ],
+    [
+      "casa a venda botucatu",
+      2,
+      3.87,
       0
     ],
     [
@@ -967,9 +1024,9 @@
       0
     ],
     [
-      "casa a venda botucatu",
+      "casa a venda em botucatu",
       1,
-      1.99,
+      2.01,
       0
     ],
     [
@@ -989,6 +1046,12 @@
       1,
       1.27,
       1
+    ],
+    [
+      "casa para vender em botucatu",
+      1,
+      2.12,
+      0
     ],
     [
       "casas a venda em botucatu ate 250 mil",
@@ -1045,6 +1108,12 @@
       0
     ],
     [
+      "chácara botucatu",
+      1,
+      2.19,
+      0
+    ],
+    [
       "comprar imovel usado",
       1,
       2.18,
@@ -1087,9 +1156,21 @@
       0
     ],
     [
+      "kitnet a venda em botucatu",
+      1,
+      2.25,
+      0
+    ],
+    [
       "le ville botucatu",
       1,
       1.97,
+      0
+    ],
+    [
+      "loteamento em botucatu",
+      1,
+      2.19,
       0
     ],
     [
@@ -1183,10 +1264,10 @@
       0
     ]
   ],
-  "metaReach": 9413,
-  "ga4Users": 124,
-  "ga4NewUsers": 124,
-  "ga4EngagedSessions": 89,
+  "metaReach": 10014,
+  "ga4Users": 171,
+  "ga4NewUsers": 171,
+  "ga4EngagedSessions": 107,
   "googleWhatsappSecondaryTotal": 7,
   "qualified": null,
   "opportunities": null,
@@ -1210,6 +1291,31 @@
       "name": "03 - [ALEA] [REMARKETING] [IMAGEM]",
       "spend": 140.13,
       "chats": 6
+    },
+    {
+      "name": "ALEA NOV 2026 | A | IMAGEM + COPIES WHATSAPP",
+      "spend": 5.02,
+      "chats": 0
+    },
+    {
+      "name": "ALEA NOV 2026 | B | IMAGEM + COPIES WHATSAPP",
+      "spend": 3.46,
+      "chats": 0
+    },
+    {
+      "name": "ALEA NOV 2026 | C | IMAGEM + COPIES WHATSAPP",
+      "spend": 14.72,
+      "chats": 3
+    },
+    {
+      "name": "ALEA NOV 2026 | E | IMAGEM + COPIES WHATSAPP",
+      "spend": 1.24,
+      "chats": 0
+    },
+    {
+      "name": "ALEA NOV 2026 | A | REMARKETING",
+      "spend": 16.86,
+      "chats": 0
     }
   ]
 }
