@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "client": "realize-alea",
-  "generatedAt": "2026-11-19T12:28:47.711Z",
+  "generatedAt": "2026-11-19T12:29:34.247Z",
   "periodStart": "2026-10-27",
   "periodEnd": "2026-11-18",
   "sources": {
@@ -11,9 +11,9 @@
       "status": "ok"
     },
     "googleAds": {
-      "asOf": "2026-11-17",
-      "dataThrough": "2026-11-17",
-      "status": "error"
+      "asOf": "2026-11-18",
+      "dataThrough": "2026-11-18",
+      "status": "ok"
     },
     "ga4": {
       "asOf": "2026-11-18",
@@ -296,6 +296,13 @@
       219,
       24,
       2
+    ],
+    [
+      "2026-11-18",
+      41.48,
+      412,
+      23,
+      1
     ]
   ],
   "formDaily": [
@@ -783,43 +790,43 @@
     [
       "casas à venda em botucatu",
       "PHRASE",
-      119,
-      231.57,
+      121,
+      235.11,
       2
     ],
     [
       "alea botucatu",
       "PHRASE",
-      51,
-      111.26,
+      53,
+      114.85,
       2
     ],
     [
       "imoveis botucatu",
       "PHRASE",
-      56,
-      93.96,
+      61,
+      102.69,
       5
     ],
     [
       "imoveis a venda botucatu",
       "PHRASE",
-      47,
-      82.22,
-      1
+      56,
+      98.58,
+      2
     ],
     [
       "casas à venda em botucatu",
       "EXACT",
-      29,
-      78.85,
+      31,
+      82.57,
       0
     ],
     [
       "casas novas botucatu",
       "PHRASE",
-      29,
-      70.97,
+      31,
+      74.64,
       0
     ],
     [
@@ -839,8 +846,8 @@
     [
       "casa financiada botucatu",
       "PHRASE",
-      6,
-      23.39,
+      7,
+      25.26,
       2
     ],
     [
@@ -952,8 +959,8 @@
   "adsSearchTerms": [
     [
       "alea botucatu",
-      30,
-      63.62,
+      31,
+      65.4,
       1
     ],
     [
@@ -961,6 +968,12 @@
       22,
       45.02,
       6
+    ],
+    [
+      "casas a venda botucatu",
+      6,
+      14.454552,
+      0
     ],
     [
       "casas alea botucatu",
@@ -981,15 +994,15 @@
       0
     ],
     [
-      "casas a venda botucatu",
-      4,
-      10.734552,
-      0
-    ],
-    [
       "casas para comprar perto de mim",
       3,
       2.628208,
+      0
+    ],
+    [
+      "imoveis a venda em botucatu",
+      3,
+      5.55,
       0
     ],
     [
@@ -1116,6 +1129,12 @@
       "casa botucatu",
       1,
       2.08,
+      0
+    ],
+    [
+      "casa em condominio botucatu",
+      1,
+      1.68,
       0
     ],
     [
@@ -1281,6 +1300,12 @@
       0
     ],
     [
+      "residencial altos da serra botucatu",
+      1,
+      1.56,
+      0
+    ],
+    [
       "residencial botucatu",
       1,
       1.93,
@@ -1290,6 +1315,12 @@
       "residencial tulipas botucatu",
       1,
       1.78,
+      0
+    ],
+    [
+      "sorteio de casas em botucatu",
+      1,
+      1.8,
       0
     ],
     [
@@ -1353,11 +1384,11 @@
       0
     ]
   ],
-  "metaReach": 23333,
+  "metaReach": 11844,
   "ga4Users": 193,
   "ga4NewUsers": 193,
   "ga4EngagedSessions": 124,
-  "googleWhatsappSecondaryTotal": 8,
+  "googleWhatsappSecondaryTotal": 9,
   "qualified": null,
   "opportunities": null,
   "visits": null,
