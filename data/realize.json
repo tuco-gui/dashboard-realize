@@ -1,33 +1,33 @@
 {
   "schemaVersion": 1,
   "client": "realize-alea",
-  "generatedAt": "2026-11-18T12:58:12.758Z",
+  "generatedAt": "2026-11-19T12:28:47.711Z",
   "periodStart": "2026-10-27",
-  "periodEnd": "2026-11-17",
+  "periodEnd": "2026-11-18",
   "sources": {
     "meta": {
-      "asOf": "2026-11-17",
-      "dataThrough": "2026-11-17",
+      "asOf": "2026-11-18",
+      "dataThrough": "2026-11-18",
       "status": "ok"
     },
     "googleAds": {
       "asOf": "2026-11-17",
       "dataThrough": "2026-11-17",
-      "status": "ok"
+      "status": "error"
     },
     "ga4": {
-      "asOf": "2026-11-17",
-      "dataThrough": "2026-11-17",
+      "asOf": "2026-11-18",
+      "dataThrough": "2026-11-18",
       "status": "ok"
     },
     "searchConsole": {
-      "asOf": "2026-11-17",
-      "dataThrough": "2026-11-16",
+      "asOf": "2026-11-18",
+      "dataThrough": "2026-11-17",
       "status": "ok"
     },
     "googleSheets": {
-      "asOf": "2026-11-17",
-      "dataThrough": "2026-11-17",
+      "asOf": "2026-11-18",
+      "dataThrough": "2026-11-18",
       "status": "ok"
     },
     "superlogica": {
@@ -129,17 +129,24 @@
     ],
     [
       "2026-11-16",
-      41.47,
-      2490,
+      41.49,
+      2491,
       52,
       3
     ],
     [
       "2026-11-17",
-      91.27,
-      4950,
+      91.42,
+      4967,
       69,
       8
+    ],
+    [
+      "2026-11-18",
+      90.69,
+      3905,
+      42,
+      11
     ]
   ],
   "googleDaily": [
@@ -302,11 +309,7 @@
     ],
     [
       "2026-10-30",
-      1
-    ],
-    [
-      "2026-10-31",
-      1
+      2
     ],
     [
       "2026-11-01",
@@ -341,12 +344,20 @@
       1
     ],
     [
+      "2026-11-15",
+      1
+    ],
+    [
       "2026-11-16",
-      2
+      1
     ],
     [
       "2026-11-17",
       4
+    ],
+    [
+      "2026-11-18",
+      2
     ]
   ],
   "ga4Daily": [
@@ -503,12 +514,19 @@
       13,
       12,
       15
+    ],
+    [
+      "2026-11-18",
+      12,
+      11,
+      10,
+      12
     ]
   ],
   "ga4Sources": [
     [
       "google / cpc",
-      198
+      210
     ],
     [
       "(direct) / (none)",
@@ -632,6 +650,11 @@
       "2026-11-16",
       11,
       0
+    ],
+    [
+      "2026-11-17",
+      19,
+      0
     ]
   ],
   "gscQueries": [
@@ -643,9 +666,15 @@
     ],
     [
       "alea botucatu",
-      7,
+      10,
       0,
-      5.9
+      6.1
+    ],
+    [
+      "alea casa",
+      1,
+      0,
+      7
     ],
     [
       "alea construtora",
@@ -661,15 +690,15 @@
     ],
     [
       "casa alea",
-      7,
+      9,
       0,
-      5.9
+      5.8
     ],
     [
       "casa alea botucatu",
-      4,
+      7,
       0,
-      4.8
+      5
     ],
     [
       "casa aleia",
@@ -684,6 +713,18 @@
       3
     ],
     [
+      "casalea",
+      1,
+      0,
+      6
+    ],
+    [
+      "casapatio",
+      1,
+      0,
+      8
+    ],
+    [
       "casas alea",
       2,
       0,
@@ -691,7 +732,7 @@
     ],
     [
       "casas alea botucatu",
-      4,
+      6,
       0,
       4.5
     ],
@@ -1313,9 +1354,9 @@
     ]
   ],
   "metaReach": 23333,
-  "ga4Users": 183,
-  "ga4NewUsers": 183,
-  "ga4EngagedSessions": 117,
+  "ga4Users": 193,
+  "ga4NewUsers": 193,
+  "ga4EngagedSessions": 124,
   "googleWhatsappSecondaryTotal": 8,
   "qualified": null,
   "opportunities": null,
@@ -1342,28 +1383,28 @@
     },
     {
       "name": "ALEA NOV 2026 | A | IMAGEM + COPIES WHATSAPP",
-      "spend": 43.54,
-      "chats": 6
+      "spend": 85.36,
+      "chats": 8
     },
     {
       "name": "ALEA NOV 2026 | B | IMAGEM + COPIES WHATSAPP",
-      "spend": 12.47,
-      "chats": 0
-    },
-    {
-      "name": "ALEA NOV 2026 | C | IMAGEM + COPIES WHATSAPP",
-      "spend": 28.09,
+      "spend": 27.21,
       "chats": 4
     },
     {
+      "name": "ALEA NOV 2026 | C | IMAGEM + COPIES WHATSAPP",
+      "spend": 36.07,
+      "chats": 5
+    },
+    {
       "name": "ALEA NOV 2026 | E | IMAGEM + COPIES WHATSAPP",
-      "spend": 5.44,
+      "spend": 8.58,
       "chats": 0
     },
     {
       "name": "ALEA NOV 2026 | A | REMARKETING",
-      "spend": 43.2,
-      "chats": 1
+      "spend": 66.38,
+      "chats": 5
     }
   ]
 }
