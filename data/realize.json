@@ -1,33 +1,33 @@
 {
   "schemaVersion": 1,
   "client": "realize-alea",
-  "generatedAt": "2026-11-19T12:29:34.247Z",
+  "generatedAt": "2026-11-20T12:38:03.476Z",
   "periodStart": "2026-10-27",
-  "periodEnd": "2026-11-18",
+  "periodEnd": "2026-11-19",
   "sources": {
     "meta": {
-      "asOf": "2026-11-18",
-      "dataThrough": "2026-11-18",
+      "asOf": "2026-11-19",
+      "dataThrough": "2026-11-19",
       "status": "ok"
     },
     "googleAds": {
-      "asOf": "2026-11-18",
-      "dataThrough": "2026-11-18",
+      "asOf": "2026-11-19",
+      "dataThrough": "2026-11-19",
       "status": "ok"
     },
     "ga4": {
-      "asOf": "2026-11-18",
-      "dataThrough": "2026-11-18",
+      "asOf": "2026-11-19",
+      "dataThrough": "2026-11-19",
       "status": "ok"
     },
     "searchConsole": {
-      "asOf": "2026-11-18",
-      "dataThrough": "2026-11-17",
+      "asOf": "2026-11-19",
+      "dataThrough": "2026-11-18",
       "status": "ok"
     },
     "googleSheets": {
-      "asOf": "2026-11-18",
-      "dataThrough": "2026-11-18",
+      "asOf": "2026-11-19",
+      "dataThrough": "2026-11-19",
       "status": "ok"
     },
     "superlogica": {
@@ -143,10 +143,17 @@
     ],
     [
       "2026-11-18",
-      90.69,
-      3905,
+      90.77,
+      3914,
       42,
       11
+    ],
+    [
+      "2026-11-19",
+      73.08,
+      3761,
+      48,
+      7
     ]
   ],
   "googleDaily": [
@@ -211,7 +218,7 @@
       40.1,
       53,
       12,
-      0
+      2
     ],
     [
       "2026-11-06",
@@ -303,6 +310,13 @@
       412,
       23,
       1
+    ],
+    [
+      "2026-11-19",
+      41.01,
+      235,
+      27,
+      0
     ]
   ],
   "formDaily": [
@@ -528,16 +542,23 @@
       11,
       10,
       12
+    ],
+    [
+      "2026-11-19",
+      14,
+      11,
+      10,
+      18
     ]
   ],
   "ga4Sources": [
     [
       "google / cpc",
-      210
+      222
     ],
     [
       "(direct) / (none)",
-      7
+      9
     ],
     [
       "chatgpt.com / ai-assistant",
@@ -662,14 +683,19 @@
       "2026-11-17",
       19,
       0
+    ],
+    [
+      "2026-11-18",
+      10,
+      0
     ]
   ],
   "gscQueries": [
     [
       "alea",
-      13,
+      14,
       0,
-      8.2
+      8.3
     ],
     [
       "alea botucatu",
@@ -679,9 +705,9 @@
     ],
     [
       "alea casa",
-      1,
+      2,
       0,
-      7
+      4.5
     ],
     [
       "alea construtora",
@@ -703,7 +729,7 @@
     ],
     [
       "casa alea botucatu",
-      7,
+      8,
       0,
       5
     ],
@@ -715,9 +741,9 @@
     ],
     [
       "casaalea",
-      1,
+      2,
       0,
-      3
+      4.5
     ],
     [
       "casalea",
@@ -739,9 +765,9 @@
     ],
     [
       "casas alea botucatu",
-      6,
+      7,
       0,
-      4.5
+      4.6
     ],
     [
       "casasalea",
@@ -790,64 +816,64 @@
     [
       "casas à venda em botucatu",
       "PHRASE",
-      121,
-      235.11,
+      123,
+      238.39,
       2
     ],
     [
       "alea botucatu",
       "PHRASE",
-      53,
-      114.85,
+      59,
+      123.91,
       2
     ],
     [
       "imoveis botucatu",
       "PHRASE",
-      61,
-      102.69,
+      68,
+      111.6,
       5
     ],
     [
       "imoveis a venda botucatu",
       "PHRASE",
-      56,
-      98.58,
+      59,
+      104.21,
       2
     ],
     [
       "casas à venda em botucatu",
       "EXACT",
-      31,
-      82.57,
+      32,
+      84.32,
       0
     ],
     [
       "casas novas botucatu",
       "PHRASE",
-      31,
-      74.64,
-      0
-    ],
-    [
-      "casas alea botucatu",
-      "PHRASE",
-      15,
-      42.33,
+      33,
+      78.6,
       0
     ],
     [
       "casas minha casa minha vida botucatu",
       "PHRASE",
-      23,
-      41.31,
+      26,
+      45.65,
       4
+    ],
+    [
+      "casas alea botucatu",
+      "PHRASE",
+      16,
+      43.73,
+      2
     ],
     [
       "casa financiada botucatu",
       "PHRASE",
-      7,
-      25.26,
+      9,
+      27.94,
       2
     ],
     [
@@ -865,7 +891,42 @@
       0
     ],
     [
+      "minha casa minha vida botucatu",
+      "PHRASE",
+      0,
+      0,
+      0
+    ],
+    [
+      "minha casa minha vida botucatu",
+      "EXACT",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa financiada botucatu",
+      "EXACT",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa nova botucatu",
+      "EXACT",
+      0,
+      0,
+      0
+    ],
+    [
       "casa com quintal botucatu",
+      "PHRASE",
+      0,
+      0,
+      0
+    ],
+    [
+      "casas com fgts botucatu",
       "PHRASE",
       0,
       0,
@@ -959,26 +1020,26 @@
   "adsSearchTerms": [
     [
       "alea botucatu",
-      31,
-      65.4,
+      36,
+      73.2,
       1
     ],
     [
       "minha casa minha vida botucatu",
-      22,
-      45.02,
+      24,
+      47.83,
       6
+    ],
+    [
+      "casas alea botucatu",
+      7,
+      10.97,
+      2
     ],
     [
       "casas a venda botucatu",
       6,
       14.454552,
-      0
-    ],
-    [
-      "casas alea botucatu",
-      6,
-      9.57,
       0
     ],
     [
@@ -994,9 +1055,27 @@
       0
     ],
     [
+      "vida nova 3 botucatu",
+      5,
+      9.89,
+      0
+    ],
+    [
+      "casa a venda botucatu",
+      3,
+      5.62,
+      0
+    ],
+    [
       "casas para comprar perto de mim",
       3,
       2.628208,
+      0
+    ],
+    [
+      "chacara a venda em botucatu",
+      3,
+      1.24,
       0
     ],
     [
@@ -1006,21 +1085,9 @@
       0
     ],
     [
-      "vida nova 3 botucatu",
-      3,
-      5.93,
-      0
-    ],
-    [
       "alea construtora",
       3,
       8.08,
-      0
-    ],
-    [
-      "casa a venda botucatu",
-      2,
-      3.87,
       0
     ],
     [
@@ -1087,6 +1154,12 @@
       "altos da serra botucatu",
       1,
       2.16,
+      0
+    ],
+    [
+      "apartamento na planta botucatu",
+      1,
+      1.96,
       0
     ],
     [
@@ -1201,12 +1274,6 @@
       "casas à venda em botucatu direto com o proprietário ouro verde",
       1,
       1.8,
-      0
-    ],
-    [
-      "chacara a venda em botucatu",
-      1,
-      0.34,
       0
     ],
     [
@@ -1382,13 +1449,2035 @@
       1,
       1.61,
       0
+    ],
+    [
+      "aldo botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "almeida imobiliária botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "alto da serra botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "altos da colina botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "altos da serra botucatu onde fica",
+      0,
+      0,
+      0
+    ],
+    [
+      "altos do ouro verde botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamento 2 quartos botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamento 3 quartos botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamento a venda botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamento a venda em botucatu sp",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamento botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamento botucatu comprar",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamento botucatu venda",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamento dom zioni botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamento em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamento em botucatu para comprar",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamento jardim paraiso botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamento mobiliado botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamento para comprar em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamento para venda em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamento à venda em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamentos a venda botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamentos a venda em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamentos a venda em botucatu sp",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamentos botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamentos em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamentos à venda em botucatu olx",
+      0,
+      0,
+      0
+    ],
+    [
+      "apto a venda em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "bairro alto da serra botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "bairro altos da serra botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "bairro beija flor botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "bairro convivio botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "barao de barcelos botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "barao de linhares botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "barão de barcelos botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "beija flor 1 botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "beija flor 2 botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "beija flor botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "bella russia botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "bem te vi 2 botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "bem te vi botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "bosque da alvorada botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "botucatu apartamento",
+      0,
+      0,
+      0
+    ],
+    [
+      "botucatu apartamentos",
+      0,
+      0,
+      0
+    ],
+    [
+      "botucatu imoveis",
+      0,
+      0,
+      0
+    ],
+    [
+      "brn construtora botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "brunello botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "cachoeirinha 2 botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "cachoeirinha 4 botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "california 2 botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "califórnia 2 botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa a venda bem te vi botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa a venda botucatu sp",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa a venda centro botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa a venda em botucatu sp",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa a venda hipica botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa a venda jardim paraiso botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa a venda ouro verde botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa a venda parque das cascatas botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa centro botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa com piscina botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa com piscina em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa comprar botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa condominio botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa em botucatu a venda",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa hipica botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa jardim paraiso botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa no centro de botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa ouro verde botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa para comprar botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa para comprar em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa para venda em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa popular botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa popular em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa reserva central parque botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa spazio verde botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa vale do sol botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa venda botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa à venda em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casas a venda botucatu sp",
+      0,
+      0,
+      0
+    ],
+    [
+      "casas a venda em botucatu condominio fechado",
+      0,
+      0,
+      0
+    ],
+    [
+      "casas a venda em botucatu sp",
+      0,
+      0,
+      0
+    ],
+    [
+      "casas botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casas em botucatu a venda",
+      0,
+      0,
+      0
+    ],
+    [
+      "casas em botucatu sp",
+      0,
+      0,
+      0
+    ],
+    [
+      "casas mrv botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casas pacaembu botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casas para comprar botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casas para comprar em botucatu sp",
+      0,
+      0,
+      0
+    ],
+    [
+      "casas para venda botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casas para vender botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casas populares botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casas populares em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casas à venda botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casas à venda em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casas à venda em botucatu 2 quartos",
+      0,
+      0,
+      0
+    ],
+    [
+      "casas à venda no bairro alto em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "censo habitacional botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "central park botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "chacara a venda botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "chacara botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "chacara santo antonio botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "chacaras a venda em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "chacaras a venda em botucatu sp",
+      0,
+      0,
+      0
+    ],
+    [
+      "chacaras botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "chacaras em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "chácara campos eliseos botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "chácara à venda em botucatu direto com o proprietário",
+      0,
+      0,
+      0
+    ],
+    [
+      "chácaras botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "chácaras à venda em botucatu e região no olx",
+      0,
+      0,
+      0
+    ],
+    [
+      "colinas do paraiso 2 botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "como conseguir uma casa propria",
+      0,
+      0,
+      0
+    ],
+    [
+      "comprar casa botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "comprar casa em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "comprar uma casa",
+      0,
+      0,
+      0
+    ],
+    [
+      "condominio aldo botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "condominio barao de linhares botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "condominio botucatu residencial",
+      0,
+      0,
+      0
+    ],
+    [
+      "condominio bulgaria botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "condominio casas botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "condominio jardim paraiso botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "condominio move botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "condominio vitta botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "condominios fechados em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "condomínio alvorada da barra botucatu sp fotos",
+      0,
+      0,
+      0
+    ],
+    [
+      "condomínio baltimore botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "condomínio belize botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "condomínio botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "condomínio braga botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "condomínio em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "condomínio esmeralda botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "condomínio fechado botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "condomínio laguna botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "condomínio reserva central parque botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "condomínio royal garden botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "condomínio vale do sol botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "corretor de imoveis botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "corretora botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "diama clube botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "dna imóveis botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "dom zioni botucatu cep",
+      0,
+      0,
+      0
+    ],
+    [
+      "ecovilla botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "ecovita botucatu altos da serra",
+      0,
+      0,
+      0
+    ],
+    [
+      "ecovita construtora botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "essencial imóveis botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "expande corretora botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "fazendas a venda em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "for life botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "for life diama clube",
+      0,
+      0,
+      0
+    ],
+    [
+      "freedom botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "freedom residence botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "green park botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "green valley botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "hipica botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliaria",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliaria botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliaria botucatu sp",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliaria decisão botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliaria em botucatu sp",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliaria molina botucatu fotos",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliarias em botucatu sp",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliária almeida botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliária bertani botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliária botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliária carreira botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliária de botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliária em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliária em botucatu sp",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliária habites",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliária ideal botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliária realize botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliária silva botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliárias botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliárias de botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliárias em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imoveis a venda botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imoveis botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imoveis em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imovel botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imovel em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imóveis botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imóveis botucatu venda",
+      0,
+      0,
+      0
+    ],
+    [
+      "imóveis rio bonito botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "indaia botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "inscrição de casas em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "jardim ciranda botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "jardim estoril botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "jardim regina botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "kit net botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "kitnet botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "kitnet botucatu jardim paraíso",
+      0,
+      0,
+      0
+    ],
+    [
+      "kitnet em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "kitnet mobiliada em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "kitnet perto da unesp botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "lançamento apartamento botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "lançamento botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "lar imobiliária botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "livia 2 botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "living in paraiso botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "lopes e ribeiro botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "lote botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "loteamento altos da serra botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "loteamento bosque da alvorada botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "loteamento botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "loteamento jardim estoril botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "loteamento ouro verde botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "loteamentos botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "loteamentos em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "lotes botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "minha casa minha vida em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "mirante da serra 1 botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "molina imoveis botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "moradia botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "moradia em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "moura leite botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "mrv botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "mrv casa botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "mrv casas botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "mrv construtora botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "neisa botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "olx botucatu imóveis",
+      0,
+      0,
+      0
+    ],
+    [
+      "one botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "one terramaris botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "pacaembu botucatu telefone",
+      0,
+      0,
+      0
+    ],
+    [
+      "pacaembu botucatu vida nova 3",
+      0,
+      0,
+      0
+    ],
+    [
+      "pacaembu vida nova 3",
+      0,
+      0,
+      0
+    ],
+    [
+      "pacaembu vida nova 3 botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "parque cidade botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "parque serrano botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "piazza san marco botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "pimentel imóveis botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "plaza martin botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "plaza martins botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "plaza sonneto botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "quinta das oliveiras botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "rancho a venda na mina botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "rancho a venda no rio bonito botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "rancho a venda rio bonito botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "rancho na mina botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "rd imóveis botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "real park botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "realize imobiliária botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial alto da serra botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial altos da colina botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial araucaria botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial bavaria botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial beija flor 2 botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial bela vista botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial bella hungria botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial bella vista botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial bem te vi botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial bosque da alvorada botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial brunello botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial bulgária botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial cachoeirinha botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial carnieto botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial chacara santo antonio botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial diama clube botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial esmeralda botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial green park botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial haway botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial hibisco botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial hipica botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial montana botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial montenegro botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial oasis da serra botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial pacaembu botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial paratodos botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial parque baltimore botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial parque laguna botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial plaza martin",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial plaza martin botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial vida nova botucatu 3",
+      0,
+      0,
+      0
+    ],
+    [
+      "royal garden botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "sitio a venda botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "sitio a venda em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "sitio em botucatu a venda",
+      0,
+      0,
+      0
+    ],
+    [
+      "sobrado em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "studio botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "sítio à venda em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "terramaris botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "terras altas botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "terreno a venda botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "terreno a venda em botucatu sp",
+      0,
+      0,
+      0
+    ],
+    [
+      "terreno botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "terreno botucatu olx",
+      0,
+      0,
+      0
+    ],
+    [
+      "terreno em botucatu preco",
+      0,
+      0,
+      0
+    ],
+    [
+      "terreno jardim tropical botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "terreno laguna botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "terreno ouro verde botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "terreno parcelado em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "terreno parque laguna botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "terreno vale do sol botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "terrenos a venda botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "terrenos a venda em botucatu sp",
+      0,
+      0,
+      0
+    ],
+    [
+      "terrenos em botucatu a venda",
+      0,
+      0,
+      0
+    ],
+    [
+      "torres angatu botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "venda de casa botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "venda de casa em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "vida nova 1 botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "vida nova 3",
+      0,
+      0,
+      0
+    ],
+    [
+      "vida nova botucatu 3",
+      0,
+      0,
+      0
+    ],
+    [
+      "vila regina botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "village real park botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "viva club botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "aleia construtora",
+      0,
+      0,
+      0
+    ],
+    [
+      "almeida imobiliária botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "alto da serra botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "altos da colina botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "altos da serra botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamento green life botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamento move botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamento na planta botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "bosque da alvorada botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa a venda botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "como conseguir uma casa",
+      0,
+      0,
+      0
+    ],
+    [
+      "comprar imovel parcelado",
+      0,
+      0,
+      0
+    ],
+    [
+      "condominio botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "construtora botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "construtora em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "dna imoveis botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "hípica botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "ideal imobiliária botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliaria realize",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliária braz souza botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliária coelho botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliária em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliária expande botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliária realize botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliária robuste botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliária silva botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliárias botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "jardim estoril botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "mrv botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "pacaembu botucatu telefone",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial hibisco botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "torres angatu botucatu",
+      0,
+      0,
+      0
     ]
   ],
-  "metaReach": 11844,
-  "ga4Users": 193,
-  "ga4NewUsers": 193,
-  "ga4EngagedSessions": 124,
-  "googleWhatsappSecondaryTotal": 9,
+  "metaReach": 27585,
+  "ga4Users": 203,
+  "ga4NewUsers": 203,
+  "ga4EngagedSessions": 130,
+  "googleWhatsappSecondaryTotal": 11,
   "qualified": null,
   "opportunities": null,
   "visits": null,
@@ -1414,27 +3503,27 @@
     },
     {
       "name": "ALEA NOV 2026 | A | IMAGEM + COPIES WHATSAPP",
-      "spend": 85.36,
-      "chats": 8
+      "spend": 96.86,
+      "chats": 10
     },
     {
       "name": "ALEA NOV 2026 | B | IMAGEM + COPIES WHATSAPP",
-      "spend": 27.21,
-      "chats": 4
+      "spend": 59.35,
+      "chats": 6
     },
     {
       "name": "ALEA NOV 2026 | C | IMAGEM + COPIES WHATSAPP",
-      "spend": 36.07,
-      "chats": 5
+      "spend": 56.25,
+      "chats": 8
     },
     {
       "name": "ALEA NOV 2026 | E | IMAGEM + COPIES WHATSAPP",
-      "spend": 8.58,
+      "spend": 14.53,
       "chats": 0
     },
     {
       "name": "ALEA NOV 2026 | A | REMARKETING",
-      "spend": 66.38,
+      "spend": 69.77,
       "chats": 5
     }
   ]
