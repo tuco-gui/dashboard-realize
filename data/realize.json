@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "client": "realize-alea",
-  "generatedAt": "2026-11-20T12:38:03.476Z",
+  "generatedAt": "2026-11-21T12:51:45.000Z",
   "periodStart": "2026-10-27",
   "periodEnd": "2026-11-20",
   "sources": {
@@ -3593,9 +3593,9 @@
       0
     ]
   ],
-  "metaReach": 27585,
+  "metaReach": 13653,
   "ga4Users": 217,
-  "ga4NewUsers": 203,
+  "ga4NewUsers": 217,
   "ga4EngagedSessions": 140,
   "googleWhatsappSecondaryTotal": 12,
   "qualified": null,
