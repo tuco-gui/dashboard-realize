@@ -3,31 +3,31 @@
   "client": "realize-alea",
   "generatedAt": "2026-11-20T12:38:03.476Z",
   "periodStart": "2026-10-27",
-  "periodEnd": "2026-11-19",
+  "periodEnd": "2026-11-20",
   "sources": {
     "meta": {
-      "asOf": "2026-11-19",
-      "dataThrough": "2026-11-19",
+      "asOf": "2026-11-20",
+      "dataThrough": "2026-11-20",
       "status": "ok"
     },
     "googleAds": {
-      "asOf": "2026-11-19",
-      "dataThrough": "2026-11-19",
+      "asOf": "2026-11-20",
+      "dataThrough": "2026-11-20",
       "status": "ok"
     },
     "ga4": {
-      "asOf": "2026-11-19",
-      "dataThrough": "2026-11-19",
+      "asOf": "2026-11-20",
+      "dataThrough": "2026-11-20",
       "status": "ok"
     },
     "searchConsole": {
-      "asOf": "2026-11-19",
-      "dataThrough": "2026-11-18",
+      "asOf": "2026-11-20",
+      "dataThrough": "2026-11-19",
       "status": "ok"
     },
     "googleSheets": {
-      "asOf": "2026-11-19",
-      "dataThrough": "2026-11-19",
+      "asOf": "2026-11-20",
+      "dataThrough": "2026-11-20",
       "status": "ok"
     },
     "superlogica": {
@@ -143,17 +143,24 @@
     ],
     [
       "2026-11-18",
-      90.77,
-      3914,
+      90.82,
+      3915,
       42,
       11
     ],
     [
       "2026-11-19",
-      73.08,
-      3761,
+      73.21,
+      3770,
       48,
       7
+    ],
+    [
+      "2026-11-20",
+      47,
+      3083,
+      37,
+      6
     ]
   ],
   "googleDaily": [
@@ -317,6 +324,13 @@
       235,
       27,
       0
+    ],
+    [
+      "2026-11-20",
+      43.28,
+      325,
+      27,
+      3
     ]
   ],
   "formDaily": [
@@ -379,6 +393,10 @@
     [
       "2026-11-18",
       2
+    ],
+    [
+      "2026-11-20",
+      4
     ]
   ],
   "ga4Daily": [
@@ -549,16 +567,23 @@
       11,
       10,
       18
+    ],
+    [
+      "2026-11-20",
+      15,
+      14,
+      14,
+      20
     ]
   ],
   "ga4Sources": [
     [
       "google / cpc",
-      222
+      236
     ],
     [
       "(direct) / (none)",
-      9
+      10
     ],
     [
       "chatgpt.com / ai-assistant",
@@ -688,20 +713,25 @@
       "2026-11-18",
       10,
       0
+    ],
+    [
+      "2026-11-19",
+      14,
+      0
     ]
   ],
   "gscQueries": [
     [
       "alea",
-      14,
+      15,
       0,
-      8.3
+      8.4
     ],
     [
       "alea botucatu",
-      10,
+      12,
       0,
-      6.1
+      6.3
     ],
     [
       "alea casa",
@@ -711,9 +741,15 @@
     ],
     [
       "alea construtora",
+      2,
+      0,
+      7.5
+    ],
+    [
+      "aleia construtora",
       1,
       0,
-      8
+      6
     ],
     [
       "botucatu imobiliaria",
@@ -741,9 +777,9 @@
     ],
     [
       "casaalea",
-      2,
+      3,
       0,
-      4.5
+      5
     ],
     [
       "casalea",
@@ -759,9 +795,9 @@
     ],
     [
       "casas alea",
-      2,
+      4,
       0,
-      7.5
+      7.2
     ],
     [
       "casas alea botucatu",
@@ -816,43 +852,43 @@
     [
       "casas à venda em botucatu",
       "PHRASE",
-      123,
-      238.39,
+      132,
+      253.61,
       2
     ],
     [
       "alea botucatu",
       "PHRASE",
-      59,
-      123.91,
+      62,
+      129.13,
       2
     ],
     [
       "imoveis botucatu",
       "PHRASE",
-      68,
-      111.6,
-      5
+      74,
+      120.71,
+      7
     ],
     [
       "imoveis a venda botucatu",
       "PHRASE",
-      59,
-      104.21,
+      60,
+      105.99,
       2
     ],
     [
       "casas à venda em botucatu",
       "EXACT",
-      32,
-      84.32,
+      33,
+      86.07,
       0
     ],
     [
       "casas novas botucatu",
       "PHRASE",
-      33,
-      78.6,
+      36,
+      82.59,
       0
     ],
     [
@@ -872,9 +908,16 @@
     [
       "casa financiada botucatu",
       "PHRASE",
-      9,
-      27.94,
+      10,
+      29.58,
       2
+    ],
+    [
+      "minha casa minha vida botucatu",
+      "EXACT",
+      3,
+      4.57,
+      1
     ],
     [
       "casa 2 quartos botucatu",
@@ -893,13 +936,6 @@
     [
       "minha casa minha vida botucatu",
       "PHRASE",
-      0,
-      0,
-      0
-    ],
-    [
-      "minha casa minha vida botucatu",
-      "EXACT",
       0,
       0,
       0
@@ -1020,15 +1056,15 @@
   "adsSearchTerms": [
     [
       "alea botucatu",
-      36,
-      73.2,
+      37,
+      74.98,
       1
     ],
     [
       "minha casa minha vida botucatu",
-      24,
-      47.83,
-      6
+      27,
+      52.4,
+      7
     ],
     [
       "casas alea botucatu",
@@ -1043,15 +1079,15 @@
       0
     ],
     [
-      "casa a venda cohab 1 botucatu",
-      5,
-      10.15,
+      "casas a venda em botucatu",
+      6,
+      10.09,
       0
     ],
     [
-      "casas a venda em botucatu",
+      "casa a venda cohab 1 botucatu",
       5,
-      8.34,
+      10.15,
       0
     ],
     [
@@ -1076,6 +1112,12 @@
       "chacara a venda em botucatu",
       3,
       1.24,
+      0
+    ],
+    [
+      "grupo robuste",
+      3,
+      1.13,
       0
     ],
     [
@@ -1142,12 +1184,6 @@
       "empreendimento botucatu",
       2,
       5.25,
-      0
-    ],
-    [
-      "grupo robuste",
-      2,
-      0.76,
       0
     ],
     [
@@ -1229,6 +1265,12 @@
       0
     ],
     [
+      "casa vale do sol botucatu",
+      1,
+      1.76,
+      0
+    ],
+    [
       "casas a venda em botucatu ate 250 mil",
       1,
       1.99,
@@ -1257,6 +1299,12 @@
       1,
       1.98,
       0
+    ],
+    [
+      "casas populares botucatu",
+      1,
+      1.74,
+      2
     ],
     [
       "casas venda botucatu",
@@ -1304,6 +1352,12 @@
       "ecovita botucatu",
       1,
       8.97,
+      0
+    ],
+    [
+      "imobiliaria botucatu",
+      1,
+      1.76,
       0
     ],
     [
@@ -1505,6 +1559,12 @@
       0
     ],
     [
+      "apartamento a venda em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
       "apartamento a venda em botucatu sp",
       0,
       0,
@@ -1566,6 +1626,18 @@
     ],
     [
       "apartamento para venda em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamento turmalina botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "apartamento venda botucatu",
       0,
       0,
       0
@@ -1775,6 +1847,12 @@
       0
     ],
     [
+      "casa a venda demetria botucatu",
+      0,
+      0,
+      0
+    ],
+    [
       "casa a venda em botucatu sp",
       0,
       0,
@@ -1800,6 +1878,18 @@
     ],
     [
       "casa a venda parque das cascatas botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa a venda vila maria botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa botucatu venda",
       0,
       0,
       0
@@ -1865,6 +1955,12 @@
       0
     ],
     [
+      "casa pacaembu botucatu",
+      0,
+      0,
+      0
+    ],
+    [
       "casa para comprar botucatu",
       0,
       0,
@@ -1902,12 +1998,6 @@
     ],
     [
       "casa spazio verde botucatu",
-      0,
-      0,
-      0
-    ],
-    [
-      "casa vale do sol botucatu",
       0,
       0,
       0
@@ -1992,12 +2082,6 @@
     ],
     [
       "casas para vender botucatu",
-      0,
-      0,
-      0
-    ],
-    [
-      "casas populares botucatu",
       0,
       0,
       0
@@ -2153,6 +2237,12 @@
       0
     ],
     [
+      "condominio bella hungria",
+      0,
+      0,
+      0
+    ],
+    [
       "condominio botucatu residencial",
       0,
       0,
@@ -2249,6 +2339,12 @@
       0
     ],
     [
+      "condomínio parque braga",
+      0,
+      0,
+      0
+    ],
+    [
       "condomínio reserva central parque botucatu",
       0,
       0,
@@ -2327,6 +2423,12 @@
       0
     ],
     [
+      "fazenda botucatu",
+      0,
+      0,
+      0
+    ],
+    [
       "fazendas a venda em botucatu",
       0,
       0,
@@ -2381,12 +2483,6 @@
       0
     ],
     [
-      "imobiliaria botucatu",
-      0,
-      0,
-      0
-    ],
-    [
       "imobiliaria botucatu sp",
       0,
       0,
@@ -2430,6 +2526,12 @@
     ],
     [
       "imobiliária botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliária botucatu expande",
       0,
       0,
       0
@@ -2628,6 +2730,12 @@
     ],
     [
       "lar imobiliária botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "livia 1 botucatu",
       0,
       0,
       0
@@ -2898,6 +3006,12 @@
     ],
     [
       "realize imobiliária botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "reserva central parque botucatu",
       0,
       0,
       0
@@ -3233,6 +3347,12 @@
       0
     ],
     [
+      "turmalina botucatu",
+      0,
+      0,
+      0
+    ],
+    [
       "venda de casa botucatu",
       0,
       0,
@@ -3474,10 +3594,10 @@
     ]
   ],
   "metaReach": 27585,
-  "ga4Users": 203,
+  "ga4Users": 217,
   "ga4NewUsers": 203,
-  "ga4EngagedSessions": 130,
-  "googleWhatsappSecondaryTotal": 11,
+  "ga4EngagedSessions": 140,
+  "googleWhatsappSecondaryTotal": 12,
   "qualified": null,
   "opportunities": null,
   "visits": null,
@@ -3486,45 +3606,61 @@
   "agencyMonthly": 750,
   "aiToolsMonthly": null,
   "ads": [
-    {
-      "name": "01 - [ALEA] [APRESENTACAO] [IMAGEM]",
-      "spend": 382.94,
-      "chats": 39
-    },
-    {
-      "name": "02 - [ALEA] [CARROSSEL] [DIFERENCIAIS]",
-      "spend": 13.48,
-      "chats": 1
-    },
-    {
-      "name": "03 - [ALEA] [REMARKETING] [IMAGEM]",
-      "spend": 140.13,
-      "chats": 6
-    },
-    {
-      "name": "ALEA NOV 2026 | A | IMAGEM + COPIES WHATSAPP",
-      "spend": 96.86,
-      "chats": 10
-    },
-    {
-      "name": "ALEA NOV 2026 | B | IMAGEM + COPIES WHATSAPP",
-      "spend": 59.35,
-      "chats": 6
-    },
-    {
-      "name": "ALEA NOV 2026 | C | IMAGEM + COPIES WHATSAPP",
-      "spend": 56.25,
-      "chats": 8
-    },
-    {
-      "name": "ALEA NOV 2026 | E | IMAGEM + COPIES WHATSAPP",
-      "spend": 14.53,
-      "chats": 0
-    },
-    {
-      "name": "ALEA NOV 2026 | A | REMARKETING",
-      "spend": 69.77,
-      "chats": 5
-    }
+    [
+      "01 - [ALEA] [APRESENTACAO] [IMAGEM]",
+      382.94,
+      21014,
+      479,
+      39
+    ],
+    [
+      "02 - [ALEA] [CARROSSEL] [DIFERENCIAIS]",
+      13.48,
+      1054,
+      8,
+      1
+    ],
+    [
+      "03 - [ALEA] [REMARKETING] [IMAGEM]",
+      140.13,
+      6356,
+      91,
+      6
+    ],
+    [
+      "ALEA NOV 2026 | A | IMAGEM + COPIES WHATSAPP",
+      110.23,
+      5947,
+      76,
+      15
+    ],
+    [
+      "ALEA NOV 2026 | B | IMAGEM + COPIES WHATSAPP",
+      74.43,
+      3970,
+      46,
+      7
+    ],
+    [
+      "ALEA NOV 2026 | C | IMAGEM + COPIES WHATSAPP",
+      70.92,
+      4376,
+      72,
+      8
+    ],
+    [
+      "ALEA NOV 2026 | E | IMAGEM + COPIES WHATSAPP",
+      16.57,
+      628,
+      11,
+      0
+    ],
+    [
+      "ALEA NOV 2026 | A | REMARKETING",
+      71.79,
+      3305,
+      43,
+      5
+    ]
   ]
 }
