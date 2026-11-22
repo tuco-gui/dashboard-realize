@@ -1,33 +1,33 @@
 {
   "schemaVersion": 1,
   "client": "realize-alea",
-  "generatedAt": "2026-11-21T12:51:45.000Z",
+  "generatedAt": "2026-11-22T12:16:47.000Z",
   "periodStart": "2026-10-27",
-  "periodEnd": "2026-11-20",
+  "periodEnd": "2026-11-21",
   "sources": {
     "meta": {
-      "asOf": "2026-11-20",
-      "dataThrough": "2026-11-20",
+      "asOf": "2026-11-21",
+      "dataThrough": "2026-11-21",
       "status": "ok"
     },
     "googleAds": {
-      "asOf": "2026-11-20",
-      "dataThrough": "2026-11-20",
+      "asOf": "2026-11-21",
+      "dataThrough": "2026-11-21",
       "status": "ok"
     },
     "ga4": {
-      "asOf": "2026-11-20",
-      "dataThrough": "2026-11-20",
+      "asOf": "2026-11-21",
+      "dataThrough": "2026-11-21",
       "status": "ok"
     },
     "searchConsole": {
-      "asOf": "2026-11-20",
-      "dataThrough": "2026-11-19",
+      "asOf": "2026-11-21",
+      "dataThrough": "2026-11-20",
       "status": "ok"
     },
     "googleSheets": {
-      "asOf": "2026-11-20",
-      "dataThrough": "2026-11-20",
+      "asOf": "2026-11-21",
+      "dataThrough": "2026-11-21",
       "status": "ok"
     },
     "superlogica": {
@@ -157,10 +157,17 @@
     ],
     [
       "2026-11-20",
-      47,
-      3083,
+      47.28,
+      3096,
       37,
       6
+    ],
+    [
+      "2026-11-21",
+      8.74,
+      373,
+      4,
+      2
     ]
   ],
   "googleDaily": [
@@ -331,6 +338,13 @@
       325,
       27,
       3
+    ],
+    [
+      "2026-11-21",
+      47.04,
+      267,
+      28,
+      3
     ]
   ],
   "formDaily": [
@@ -397,6 +411,10 @@
     [
       "2026-11-20",
       4
+    ],
+    [
+      "2026-11-21",
+      3
     ]
   ],
   "ga4Daily": [
@@ -574,12 +592,19 @@
       14,
       14,
       20
+    ],
+    [
+      "2026-11-21",
+      14,
+      14,
+      13,
+      16
     ]
   ],
   "ga4Sources": [
     [
       "google / cpc",
-      236
+      249
     ],
     [
       "(direct) / (none)",
@@ -591,7 +616,7 @@
     ],
     [
       "(data not available)",
-      2
+      3
     ],
     [
       "tagassistant.google.com / referral",
@@ -718,6 +743,11 @@
       "2026-11-19",
       14,
       0
+    ],
+    [
+      "2026-11-20",
+      10,
+      0
     ]
   ],
   "gscQueries": [
@@ -729,9 +759,9 @@
     ],
     [
       "alea botucatu",
-      12,
+      13,
       0,
-      6.3
+      6.2
     ],
     [
       "alea casa",
@@ -801,9 +831,9 @@
     ],
     [
       "casas alea botucatu",
-      7,
+      8,
       0,
-      4.6
+      4.9
     ],
     [
       "casasalea",
@@ -852,44 +882,44 @@
     [
       "casas à venda em botucatu",
       "PHRASE",
-      132,
-      253.61,
+      138,
+      263.95,
       2
     ],
     [
       "alea botucatu",
       "PHRASE",
-      62,
-      129.13,
+      65,
+      133.83,
       2
     ],
     [
       "imoveis botucatu",
       "PHRASE",
-      74,
-      120.71,
+      78,
+      127.45,
       7
     ],
     [
       "imoveis a venda botucatu",
       "PHRASE",
-      60,
-      105.99,
+      64,
+      112.42,
       2
     ],
     [
       "casas à venda em botucatu",
       "EXACT",
-      33,
-      86.07,
+      38,
+      94.22,
       0
     ],
     [
       "casas novas botucatu",
       "PHRASE",
-      36,
-      82.59,
-      0
+      40,
+      89.74,
+      2
     ],
     [
       "casas minha casa minha vida botucatu",
@@ -901,8 +931,8 @@
     [
       "casas alea botucatu",
       "PHRASE",
-      16,
-      43.73,
+      17,
+      45.27,
       2
     ],
     [
@@ -915,9 +945,9 @@
     [
       "minha casa minha vida botucatu",
       "EXACT",
-      3,
-      4.57,
-      1
+      4,
+      6.56,
+      2
     ],
     [
       "casa 2 quartos botucatu",
@@ -1062,15 +1092,21 @@
     ],
     [
       "minha casa minha vida botucatu",
-      27,
-      52.4,
-      7
+      28,
+      54.39,
+      8
     ],
     [
       "casas alea botucatu",
-      7,
-      10.97,
+      8,
+      12.51,
       2
+    ],
+    [
+      "casas a venda em botucatu",
+      7,
+      11.62,
+      0
     ],
     [
       "casas a venda botucatu",
@@ -1079,9 +1115,9 @@
       0
     ],
     [
-      "casas a venda em botucatu",
-      6,
-      10.09,
+      "casa a venda botucatu",
+      5,
+      9.19,
       0
     ],
     [
@@ -1094,12 +1130,6 @@
       "vida nova 3 botucatu",
       5,
       9.89,
-      0
-    ],
-    [
-      "casa a venda botucatu",
-      3,
-      5.62,
       0
     ],
     [
@@ -1133,6 +1163,12 @@
       0
     ],
     [
+      "casa a venda em botucatu",
+      2,
+      3.7,
+      0
+    ],
+    [
       "casa em botucatu",
       2,
       4.4,
@@ -1145,6 +1181,12 @@
       0
     ],
     [
+      "casas a venda em botucatu ate 250 mil",
+      2,
+      3.9,
+      0
+    ],
+    [
       "casas em botucatu até 200 mil",
       2,
       3.88,
@@ -1154,6 +1196,12 @@
       "casas para vender em botucatu",
       2,
       3.5,
+      0
+    ],
+    [
+      "casas à venda de até 120.000 em botucatu sp",
+      2,
+      3.35,
       0
     ],
     [
@@ -1187,9 +1235,21 @@
       0
     ],
     [
+      "imobiliaria botucatu",
+      2,
+      3.04,
+      0
+    ],
+    [
       "altos da serra botucatu",
       1,
       2.16,
+      0
+    ],
+    [
+      "apartamento a venda em botucatu",
+      1,
+      1.53,
       0
     ],
     [
@@ -1229,9 +1289,9 @@
       0
     ],
     [
-      "casa a venda em botucatu",
+      "casa a venda centro botucatu",
       1,
-      2.01,
+      1.74,
       0
     ],
     [
@@ -1271,12 +1331,6 @@
       0
     ],
     [
-      "casas a venda em botucatu ate 250 mil",
-      1,
-      1.99,
-      0
-    ],
-    [
       "casas botucatu venda",
       1,
       1.54,
@@ -1313,12 +1367,6 @@
       0
     ],
     [
-      "casas à venda de até 120.000 em botucatu sp",
-      1,
-      1.81,
-      0
-    ],
-    [
       "casas à venda em botucatu direto com o proprietário ouro verde",
       1,
       1.8,
@@ -1349,15 +1397,15 @@
       0
     ],
     [
-      "ecovita botucatu",
+      "dom zioni residencial",
       1,
-      8.97,
+      1.55,
       0
     ],
     [
-      "imobiliaria botucatu",
+      "ecovita botucatu",
       1,
-      1.76,
+      8.97,
       0
     ],
     [
@@ -1433,6 +1481,12 @@
       1
     ],
     [
+      "residencial esmeralda botucatu",
+      1,
+      1.87,
+      0
+    ],
+    [
       "residencial tulipas botucatu",
       1,
       1.78,
@@ -1460,6 +1514,12 @@
       "terrenos a venda em botucatu",
       1,
       2.19,
+      0
+    ],
+    [
+      "viva club botucatu",
+      1,
+      1.67,
       0
     ],
     [
@@ -1559,12 +1619,6 @@
       0
     ],
     [
-      "apartamento a venda em botucatu",
-      0,
-      0,
-      0
-    ],
-    [
       "apartamento a venda em botucatu sp",
       0,
       0,
@@ -1643,6 +1697,12 @@
       0
     ],
     [
+      "apartamento vivendas de la salle botucatu",
+      0,
+      0,
+      0
+    ],
+    [
       "apartamento à venda em botucatu",
       0,
       0,
@@ -1686,6 +1746,12 @@
     ],
     [
       "apto a venda em botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "atual imóveis botucatu",
       0,
       0,
       0
@@ -1787,6 +1853,12 @@
       0
     ],
     [
+      "botucatu casas a venda",
+      0,
+      0,
+      0
+    ],
+    [
       "botucatu imoveis",
       0,
       0,
@@ -1800,6 +1872,12 @@
     ],
     [
       "brunello botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "cachoeirinha 1 botucatu",
       0,
       0,
       0
@@ -1841,12 +1919,6 @@
       0
     ],
     [
-      "casa a venda centro botucatu",
-      0,
-      0,
-      0
-    ],
-    [
       "casa a venda demetria botucatu",
       0,
       0,
@@ -1860,6 +1932,12 @@
     ],
     [
       "casa a venda hipica botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "casa a venda jardim ouro verde botucatu",
       0,
       0,
       0
@@ -2016,6 +2094,12 @@
     ],
     [
       "casas a venda botucatu sp",
+      0,
+      0,
+      0
+    ],
+    [
+      "casas a venda em botucatu com piscina",
       0,
       0,
       0
@@ -2273,6 +2357,12 @@
       0
     ],
     [
+      "condominio terras altas botucatu",
+      0,
+      0,
+      0
+    ],
+    [
       "condominio vitta botucatu",
       0,
       0,
@@ -2346,6 +2436,12 @@
     ],
     [
       "condomínio reserva central parque botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "condomínio residencial jardim paraíso botucatu",
       0,
       0,
       0
@@ -2477,6 +2573,12 @@
       0
     ],
     [
+      "ilhas gregas botucatu",
+      0,
+      0,
+      0
+    ],
+    [
       "imobiliaria",
       0,
       0,
@@ -2502,6 +2604,12 @@
     ],
     [
       "imobiliaria molina botucatu fotos",
+      0,
+      0,
+      0
+    ],
+    [
+      "imobiliaria robuste botucatu",
       0,
       0,
       0
@@ -2669,6 +2777,12 @@
       0
     ],
     [
+      "jardim do bosque 2 botucatu",
+      0,
+      0,
+      0
+    ],
+    [
       "jardim estoril botucatu",
       0,
       0,
@@ -2808,6 +2922,12 @@
     ],
     [
       "lotes botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "mc imoveis botucatu",
       0,
       0,
       0
@@ -3113,12 +3233,6 @@
       0
     ],
     [
-      "residencial esmeralda botucatu",
-      0,
-      0,
-      0
-    ],
-    [
       "residencial green park botucatu",
       0,
       0,
@@ -3150,6 +3264,12 @@
     ],
     [
       "residencial montenegro botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "residencial move botucatu",
       0,
       0,
       0
@@ -3246,6 +3366,12 @@
     ],
     [
       "terramaris botucatu",
+      0,
+      0,
+      0
+    ],
+    [
+      "terramaris one botucatu",
       0,
       0,
       0
@@ -3390,12 +3516,6 @@
     ],
     [
       "village real park botucatu",
-      0,
-      0,
-      0
-    ],
-    [
-      "viva club botucatu",
       0,
       0,
       0
@@ -3593,10 +3713,10 @@
       0
     ]
   ],
-  "metaReach": 13653,
-  "ga4Users": 217,
-  "ga4NewUsers": 217,
-  "ga4EngagedSessions": 140,
+  "metaReach": 13690,
+  "ga4Users": 230,
+  "ga4NewUsers": 230,
+  "ga4EngagedSessions": 151,
   "googleWhatsappSecondaryTotal": 12,
   "qualified": null,
   "opportunities": null,
@@ -3629,36 +3749,36 @@
     ],
     [
       "ALEA NOV 2026 | A | IMAGEM + COPIES WHATSAPP",
-      110.23,
-      5947,
-      76,
-      15
+      112.87,
+      6032,
+      77,
+      16
     ],
     [
       "ALEA NOV 2026 | B | IMAGEM + COPIES WHATSAPP",
-      74.43,
-      3970,
-      46,
+      76.55,
+      4077,
+      47,
       7
     ],
     [
       "ALEA NOV 2026 | C | IMAGEM + COPIES WHATSAPP",
-      70.92,
-      4376,
-      72,
+      75.04,
+      4552,
+      74,
       8
     ],
     [
       "ALEA NOV 2026 | E | IMAGEM + COPIES WHATSAPP",
-      16.57,
-      628,
+      16.63,
+      636,
       11,
-      0
+      1
     ],
     [
       "ALEA NOV 2026 | A | REMARKETING",
-      71.79,
-      3305,
+      71.87,
+      3315,
       43,
       5
     ]
